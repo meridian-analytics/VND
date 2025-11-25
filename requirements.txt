@@ -1,0 +1,6 @@
+ketos==2.7.0
+Numpy==1.24.4
+Pandas==2.0.3
+Soundfile==0.12.1
+Scipy==1.10.1
+tqdm==4.67.1

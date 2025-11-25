@@ -1,0 +1,10 @@
+{
+    "project_name": "Ulukhaktok",
+    "date_position": [15, 23],
+    "time_position": [24, 30],
+    "channel_number": 1,
+    "min_freqs": [50],
+    "max_freqs": [1000],
+    "segment_length": 100,
+    "system_noise_frequencies": [375, 132, 131, 750, 220, 75, 440, 660, 1124, 125]
+}
